@@ -2,164 +2,164 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SauberEco</title>
-    <link>http://localhost:62318/saubereco-website/</link>
+    <link>http://localhost:1313/saubereco-website/</link>
     <description>Recent content on SauberEco</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Jan 2025 20:44:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:62318/saubereco-website/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/saubereco-website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://localhost:62318/saubereco-website/posts/20250107_blog_107/</link>
+      <link>http://localhost:1313/saubereco-website/posts/20250107_blog_107/</link>
       <pubDate>Tue, 07 Jan 2025 20:44:00 +0100</pubDate>
-      <guid>http://localhost:62318/saubereco-website/posts/20250107_blog_107/</guid>
+      <guid>http://localhost:1313/saubereco-website/posts/20250107_blog_107/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:62318/saubereco-website/posts/20250106_blog_106/</link>
+      <link>http://localhost:1313/saubereco-website/posts/20250106_blog_106/</link>
       <pubDate>Mon, 06 Jan 2025 20:44:00 +0100</pubDate>
-      <guid>http://localhost:62318/saubereco-website/posts/20250106_blog_106/</guid>
+      <guid>http://localhost:1313/saubereco-website/posts/20250106_blog_106/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:62318/saubereco-website/posts/20250105_blog_105/</link>
+      <link>http://localhost:1313/saubereco-website/posts/20250105_blog_105/</link>
       <pubDate>Sun, 05 Jan 2025 20:44:00 +0100</pubDate>
-      <guid>http://localhost:62318/saubereco-website/posts/20250105_blog_105/</guid>
+      <guid>http://localhost:1313/saubereco-website/posts/20250105_blog_105/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:62318/saubereco-website/posts/20250104_blog_104/</link>
+      <link>http://localhost:1313/saubereco-website/posts/20250104_blog_104/</link>
       <pubDate>Sat, 04 Jan 2025 20:44:00 +0100</pubDate>
-      <guid>http://localhost:62318/saubereco-website/posts/20250104_blog_104/</guid>
+      <guid>http://localhost:1313/saubereco-website/posts/20250104_blog_104/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:62318/saubereco-website/posts/20250103_blog_103/</link>
+      <link>http://localhost:1313/saubereco-website/posts/20250103_blog_103/</link>
       <pubDate>Fri, 03 Jan 2025 20:44:00 +0100</pubDate>
-      <guid>http://localhost:62318/saubereco-website/posts/20250103_blog_103/</guid>
+      <guid>http://localhost:1313/saubereco-website/posts/20250103_blog_103/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Meine Neue Seite</title>
-      <link>http://localhost:62318/saubereco-website/posts/20250102_blog_101/</link>
+      <link>http://localhost:1313/saubereco-website/posts/20250102_blog_101/</link>
       <pubDate>Thu, 02 Jan 2025 21:00:06 +0100</pubDate>
-      <guid>http://localhost:62318/saubereco-website/posts/20250102_blog_101/</guid>
+      <guid>http://localhost:1313/saubereco-website/posts/20250102_blog_101/</guid>
       <description>&lt;h2 id=&#34;testeintrag-um-zu-schauen-ob-es-funkt&#34;&gt;Testeintrag um zu schauen ob es funkt&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;hier gehts weiter&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Meine Neue Seite</title>
-      <link>http://localhost:62318/saubereco-website/posts/20250101_blog_100/</link>
+      <link>http://localhost:1313/saubereco-website/posts/20250101_blog_100/</link>
       <pubDate>Wed, 01 Jan 2025 21:00:06 +0100</pubDate>
-      <guid>http://localhost:62318/saubereco-website/posts/20250101_blog_100/</guid>
+      <guid>http://localhost:1313/saubereco-website/posts/20250101_blog_100/</guid>
       <description>&lt;h2 id=&#34;testeintrag-um-zu-schauen-ob-es-funkt&#34;&gt;Testeintrag um zu schauen ob es funkt&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;hier gehts weiter&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Fallstudien</title>
-      <link>http://localhost:62318/saubereco-website/fallstudien/</link>
+      <link>http://localhost:1313/saubereco-website/fallstudien/</link>
       <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62318/saubereco-website/fallstudien/</guid>
+      <guid>http://localhost:1313/saubereco-website/fallstudien/</guid>
       <description>&lt;p&gt;Erfahre, wie &lt;strong&gt;SauberEco&lt;/strong&gt; in der Praxis wirkt! Unsere Fallstudien zeigen Beispiele, wie unsere Produkte und Dienstleistungen in verschiedenen Bereichen erfolgreich angewendet wurden.&lt;/p&gt;&#xA;&lt;h2 id=&#34;unsere-fallstudien&#34;&gt;Unsere Fallstudien&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./fallstudien/privathaushalte/&#34;&gt;Privathaushalte&lt;/a&gt;: Erfolgsgeschichten aus dem Alltag unserer Kunden.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./fallstudien/unternehmen/&#34;&gt;Unternehmen&lt;/a&gt;: Wie Unternehmen ihre Reinigung nachhaltiger gestalten konnten.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./fallstudien/kooperationen/&#34;&gt;Kooperationen&lt;/a&gt;: Partnerschaften mit Gemeinden und Organisationen, die gemeinsame Umweltziele verfolgen.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Lasse dich inspirieren und entdecke, wie SauberEco auch in deinem Umfeld einen Unterschied machen kann. Gemeinsam für eine sauberere und nachhaltigere Zukunft!&lt;/p&gt;</description>
     </item>
     <item>
       <title>FAQ - Häufig gestellte Fragen</title>
-      <link>http://localhost:62318/saubereco-website/faq/</link>
+      <link>http://localhost:1313/saubereco-website/faq/</link>
       <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62318/saubereco-website/faq/</guid>
+      <guid>http://localhost:1313/saubereco-website/faq/</guid>
       <description>&lt;p&gt;Über die Jahre haben sich viele Fragen zu unseren Produkten, Services und unserem Unternehmen angesammelt. Wir haben die häufigsten Fragen gesammelt und nach Themen sortiert, um dir eine schnelle Übersicht zu bieten. Solltest du weitere Fragen haben, kannst du uns jederzeit per E-Mail, Telefon oder über unser Kontaktformular erreichen.&lt;/p&gt;&#xA;&lt;h2 id=&#34;fragen-zu-unseren-produkten&#34;&gt;Fragen zu unseren Produkten&lt;/h2&gt;&#xA;&lt;h3 id=&#34;was-macht-saubereco-produkte-besonders&#34;&gt;Was macht SauberEco-Produkte besonders?&lt;/h3&gt;&#xA;&lt;p&gt;Unsere Waschmittel zeichnen sich durch ihre umweltfreundliche Produktion, biologisch abbaubare Inhaltsstoffe und regionale Herstellung aus. Jedes Produkt wird getestet, um höchste Qualität und Nachhaltigkeit zu gewährleisten.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Insights</title>
-      <link>http://localhost:62318/saubereco-website/insights/</link>
+      <link>http://localhost:1313/saubereco-website/insights/</link>
       <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62318/saubereco-website/insights/</guid>
+      <guid>http://localhost:1313/saubereco-website/insights/</guid>
       <description>&lt;p&gt;Willkommen in der Rubrik &lt;strong&gt;Insights&lt;/strong&gt; von SauberEco! Hier findest du aktuelle Informationen, Trends und wissenschaftliche Erkenntnisse rund um Nachhaltigkeit, Innovation und die Waschmittelbranche.&lt;/p&gt;&#xA;&lt;h2 id=&#34;themenübersicht&#34;&gt;Themenübersicht&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./insights/nachhaltige-reinigung/&#34;&gt;Nachhaltige Reinigung&lt;/a&gt;: Tipps und Tricks, wie du deinen Alltag umweltfreundlicher gestalten kannst.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./insights/innovationen/&#34;&gt;Innovationen&lt;/a&gt;: Spannende Entwicklungen und Technologien aus der Branche.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./insights/markttrends/&#34;&gt;Markttrends&lt;/a&gt;: Einblicke in Verbraucherverhalten und nachhaltige Trends.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./insights/wissenschaftliches/&#34;&gt;Wissenschaftliches&lt;/a&gt;: Forschungsergebnisse und Studien, die unsere Arbeit inspirieren.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Entdecke, wie SauberEco nicht nur Produkte, sondern auch Wissen bereitstellt, um eine nachhaltigere Zukunft zu gestalten. Schau regelmäßig vorbei, um keine neuen Insights zu verpassen!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Karriere</title>
-      <link>http://localhost:62318/saubereco-website/karriere/</link>
+      <link>http://localhost:1313/saubereco-website/karriere/</link>
       <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62318/saubereco-website/karriere/</guid>
+      <guid>http://localhost:1313/saubereco-website/karriere/</guid>
       <description>&lt;p&gt;&lt;strong&gt;SauberEco&lt;/strong&gt; wurde mit der Vision gegründet, nachhaltige Waschmittel herzustellen und dabei Ressourcen und Emissionen einzusparen. Mit einem innovativen Geschäftsmodell, das auf Transparenz und Fairness basiert, setzen wir Maßstäbe in der Reinigungsmittelindustrie. Als wachsendes Unternehmen suchen wir engagierte Menschen, die unsere Vision teilen und gemeinsam mit uns eine nachhaltige Zukunft gestalten möchten.&lt;/p&gt;&#xA;&lt;h2 id=&#34;aktuelle-stellenangebote&#34;&gt;Aktuelle Stellenangebote&lt;/h2&gt;&#xA;&lt;h3 id=&#34;ausbildung-zur-kauffrau--zum-kaufmann-für-büromanagement-wmd&#34;&gt;Ausbildung zur Kauffrau / zum Kaufmann für Büromanagement (w/m/d)&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Beginn:&lt;/strong&gt; 1. August 2025&lt;/p&gt;&#xA;&lt;h4 id=&#34;was-erwarten-wir-von-ihnen&#34;&gt;Was erwarten wir von Ihnen?&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sie passen zu uns, wenn Sie ein ausgeprägtes Interesse an nachhaltigen Geschäftsmodellen und ökologischen Themen haben.&lt;/li&gt;&#xA;&lt;li&gt;Ideale Bewerber:innen haben Abitur oder einen vergleichbaren Schulabschluss und erste praktische Erfahrungen, z. B. durch ein Praktikum.&lt;/li&gt;&#xA;&lt;li&gt;Sie bringen eine schnelle Auffassungsgabe, gute Umgangsformen und die Bereitschaft mit, Verantwortung zu übernehmen.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;was-bieten-wir-ihnen&#34;&gt;Was bieten wir Ihnen?&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Learning by Doing:&lt;/strong&gt; Wir legen großen Wert darauf, dass Sie nicht nur zuschauen, sondern aktiv mitgestalten. Bei uns dürfen Sie eigene Projekte umsetzen und dabei Verantwortung übernehmen.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Nachhaltige Perspektiven:&lt;/strong&gt; Sie erlernen Fähigkeiten, die Sie auf eine Karriere im Bereich nachhaltiger Geschäftsmodelle vorbereiten.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Unterstützung:&lt;/strong&gt; Damit Sie uns gut erreichen, übernehmen wir während Ihrer Ausbildungszeit die Kosten für das Nahverkehrsticket.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;warum-saubereco&#34;&gt;Warum SauberEco?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Innovation:&lt;/strong&gt; Wir sind ein Vorreiter im Bereich nachhaltiger Reinigungslösungen und bieten Ihnen ein modernes Arbeitsumfeld.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Gemeinschaft:&lt;/strong&gt; Bei uns stehen Teamwork und gegenseitige Unterstützung im Mittelpunkt.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Nachhaltigkeit leben:&lt;/strong&gt; Gemeinsam arbeiten wir daran, die Welt ein Stück sauberer zu machen.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Möchten Sie Teil unseres Teams werden? Dann senden Sie uns Ihre Bewerbung an &lt;strong&gt;&lt;a href=&#34;mailto:karriere@saubereco.de&#34;&gt;karriere@saubereco.de&lt;/a&gt;&lt;/strong&gt;. Wir freuen uns darauf, Sie kennenzulernen!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kontakt</title>
-      <link>http://localhost:62318/saubereco-website/kontakt/</link>
+      <link>http://localhost:1313/saubereco-website/kontakt/</link>
       <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62318/saubereco-website/kontakt/</guid>
+      <guid>http://localhost:1313/saubereco-website/kontakt/</guid>
       <description>&lt;p&gt;Wir freuen uns, von dir zu hören! Egal, ob du Fragen zu unseren Produkten hast, mit uns zusammenarbeiten möchtest oder einfach mehr über &lt;strong&gt;SauberEco&lt;/strong&gt; erfahren willst – hier findest du alle Möglichkeiten, uns zu erreichen.&lt;/p&gt;&#xA;&lt;h2 id=&#34;kontaktiere-uns&#34;&gt;Kontaktiere uns&lt;/h2&gt;&#xA;&lt;h3 id=&#34;kontaktformular&#34;&gt;Kontaktformular&lt;/h3&gt;&#xA;&lt;p&gt;Nutze unser &lt;a href=&#34;./kontakt/kontaktformular&#34;&gt;Kontaktformular&lt;/a&gt;, um uns direkt eine Nachricht zu senden. Wir melden uns so schnell wie möglich bei dir!&lt;/p&gt;&#xA;&lt;h3 id=&#34;standorte&#34;&gt;Standorte&lt;/h3&gt;&#xA;&lt;p&gt;Besuche uns an unseren regionalen Produktionsstätten. Informationen zu unseren Standorten findest du &lt;a href=&#34;./kontakt/standorte&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;häufig-gestellte-fragen-faq&#34;&gt;Häufig gestellte Fragen (FAQ)&lt;/h3&gt;&#xA;&lt;p&gt;Antworten auf häufige Fragen zu unseren Produkten und Dienstleistungen findest du in unserem &lt;a href=&#34;./kontakt/faq&#34;&gt;FAQ-Bereich&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mitarbeiterumfrage zur Zusammenarbeit im Team</title>
-      <link>http://localhost:62318/saubereco-website/studie/</link>
+      <link>http://localhost:1313/saubereco-website/studie/</link>
       <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62318/saubereco-website/studie/</guid>
+      <guid>http://localhost:1313/saubereco-website/studie/</guid>
       <description>&lt;h2 id=&#34;1-einführung&#34;&gt;1. Einführung&lt;/h2&gt;&#xA;&lt;h3 id=&#34;hintergrund&#34;&gt;Hintergrund&lt;/h3&gt;&#xA;&lt;p&gt;SauberEco, ein Unternehmen für nachhaltige Reinigungsprodukte, wurde mit dem Ziel gegründet, innovative, umweltfreundliche und lokale Lösungen für die Reinigungsindustrie zu schaffen. Nachhaltigkeit, Effizienz und Transparenz stehen im Zentrum unseres Handelns. Im Rahmen unseres Engagements für eine faire und transparente Unternehmenskultur haben wir eine interne Untersuchung zur Teamarbeit durchgeführt.&lt;/p&gt;&#xA;&lt;h3 id=&#34;zielsetzung&#34;&gt;Zielsetzung&lt;/h3&gt;&#xA;&lt;p&gt;Die zentrale Fragestellung der Studie lautet: &lt;em&gt;„Wie ist es in unserem Unternehmen mit der Zusammenarbeit im Team bestellt?“&lt;/em&gt; Diese Untersuchung, basierend auf der Methodik von Kauffeld, zielt darauf ab, Stärken und Schwächen in der Teamarbeit zu identifizieren und Strategien zur Optimierung zu entwickeln. Die Ergebnisse sollen als Grundlage für zukünftige Personal- und Organisationsentscheidungen dienen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mitarbeiterumfrage zur Zusammenarbeit im Team</title>
-      <link>http://localhost:62318/saubereco-website/studie_original/</link>
+      <link>http://localhost:1313/saubereco-website/studie_original/</link>
       <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62318/saubereco-website/studie_original/</guid>
+      <guid>http://localhost:1313/saubereco-website/studie_original/</guid>
       <description>&lt;h1 id=&#34;studie-zur-zusammenarbeit-im-team-bei-saubereco&#34;&gt;Studie zur Zusammenarbeit im Team bei SauberEco&lt;/h1&gt;&#xA;&lt;h2 id=&#34;1-einführung&#34;&gt;1. Einführung&lt;/h2&gt;&#xA;&lt;h3 id=&#34;hintergrund&#34;&gt;Hintergrund&lt;/h3&gt;&#xA;&lt;p&gt;SauberEco, ein Unternehmen für nachhaltige Reinigungsprodukte, wurde mit dem Ziel gegründet, innovative, umweltfreundliche und lokale Lösungen für die Reinigungsindustrie zu schaffen. Nachhaltigkeit, Effizienz und Transparenz stehen im Zentrum unseres Handelns. Im Rahmen unseres Engagements für eine faire und transparente Unternehmenskultur haben wir eine interne Untersuchung zur Teamarbeit durchgeführt.&lt;/p&gt;&#xA;&lt;h3 id=&#34;zielsetzung&#34;&gt;Zielsetzung&lt;/h3&gt;&#xA;&lt;p&gt;Die zentrale Fragestellung der Studie lautet: &lt;em&gt;„Wie ist es in unserem Unternehmen mit der Zusammenarbeit im Team bestellt?“&lt;/em&gt; Diese Untersuchung, basierend auf der Methodik von Kauffeld, zielt darauf ab, Stärken und Schwächen in der Teamarbeit zu identifizieren und Strategien zur Optimierung zu entwickeln. Die Ergebnisse sollen als Grundlage für zukünftige Personal- und Organisationsentscheidungen dienen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nachhaltigkeit</title>
-      <link>http://localhost:62318/saubereco-website/nachhaltigkeit/</link>
+      <link>http://localhost:1313/saubereco-website/nachhaltigkeit/</link>
       <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62318/saubereco-website/nachhaltigkeit/</guid>
+      <guid>http://localhost:1313/saubereco-website/nachhaltigkeit/</guid>
       <description>&lt;p&gt;Lange bevor Nachhaltigkeit in der Industrie an Bedeutung gewinnt, macht SauberEco die ökologische und soziale Verantwortung zur Grundlage seines Geschäftskonzepts. Unser Ansatz beschränkt sich nicht nur darauf, umweltfreundliche Waschmittel herzustellen und zu vertreiben, sondern umfasst auch die Förderung fairer Arbeitsbedingungen und die Schaffung besserer ökonomischer Strukturen.&lt;/p&gt;&#xA;&lt;p&gt;Das Credo: Wer auf unnötige Verpackungen, übermäßige Marketingmaßnahmen und Gewinnmaximierung verzichtet, kann umweltfreundliche Produkte in höchster Qualität zu einem erschwinglichen Preis anbieten.&lt;/p&gt;&#xA;&lt;h2 id=&#34;ein-nachhaltiges-geschäftsmodell&#34;&gt;Ein nachhaltiges Geschäftsmodell&lt;/h2&gt;&#xA;&lt;p&gt;SauberEco zeigt, dass es möglich ist, erstklassige, lokal produzierte und ökologisch nachhaltige Waschmittel anzubieten, die für jeden zugänglich sind. Unser Ansatz ist ein ökonomisches Lehrstück:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Produkte</title>
-      <link>http://localhost:62318/saubereco-website/produkte/</link>
+      <link>http://localhost:1313/saubereco-website/produkte/</link>
       <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62318/saubereco-website/produkte/</guid>
+      <guid>http://localhost:1313/saubereco-website/produkte/</guid>
       <description>&lt;p&gt;Entdecke die &lt;strong&gt;nachhaltigen Produkte&lt;/strong&gt; von SauberEco – für saubere Wäsche und eine saubere Umwelt. Unsere Waschmittel vereinen höchste Qualität mit ökologischer Verantwortung.&lt;/p&gt;&#xA;&lt;h2 id=&#34;unsere-produktpalette&#34;&gt;Unsere Produktpalette&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./produkte/oeko-waschpulver/&#34;&gt;Öko-Waschpulver&lt;/a&gt;: Hochwirksames Waschpulver aus rein natürlichen Inhaltsstoffen.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./produkte/fluessigwaschmittel/&#34;&gt;Flüssigwaschmittel&lt;/a&gt;: Biologisch abbaubar und lokal produziert.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./produkte/weichspueler/&#34;&gt;Weichspüler&lt;/a&gt;: Pflanzlich basierter Weichspüler ohne künstliche Duftstoffe.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./produkte/waschmittel-pods/&#34;&gt;Waschmittel-Pods&lt;/a&gt;: Praktische und umweltfreundliche Waschmittelkapseln.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Unsere Produkte sind lokal produziert, umweltfreundlich und garantieren das beste Waschergebnis – für dich und die Natur.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;öko-waschpulver&#34;&gt;Öko-Waschpulver&lt;/h1&gt;&#xA;&lt;p&gt;Das &lt;strong&gt;SauberEco Öko-Waschpulver&lt;/strong&gt; ist die perfekte Wahl für umweltbewusste Haushalte. Mit einer Rezeptur aus rein natürlichen Inhaltsstoffen sorgt es für strahlend saubere Wäsche und schont dabei die Umwelt.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Services</title>
-      <link>http://localhost:62318/saubereco-website/services/</link>
+      <link>http://localhost:1313/saubereco-website/services/</link>
       <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62318/saubereco-website/services/</guid>
+      <guid>http://localhost:1313/saubereco-website/services/</guid>
       <description>&lt;p&gt;&lt;strong&gt;SauberEco&lt;/strong&gt; bietet eine Vielzahl von Dienstleistungen rund um nachhaltige Waschmittel und Reinigungslösungen. Unser Ziel ist es, sowohl Privathaushalte als auch Unternehmen dabei zu unterstützen, umweltbewusster zu handeln.&lt;/p&gt;&#xA;&lt;h2 id=&#34;unsere-dienstleistungen&#34;&gt;Unsere Dienstleistungen&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./services/nachhaltige-reinigung/&#34;&gt;Nachhaltige Reinigung&lt;/a&gt;: Beratung zur Optimierung deiner Waschprozesse für mehr Nachhaltigkeit.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./services/individuelle-rezepturen/&#34;&gt;Individuelle Rezepturen&lt;/a&gt;: Entwicklung spezieller Waschmittelrezepturen, maßgeschneidert für deine Bedürfnisse.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./services/refill-service/&#34;&gt;Refill-Service&lt;/a&gt;: Wiederbefüllbare Behälter für weniger Verpackungsmüll.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./services/workshops/&#34;&gt;Workshops &amp;amp; Schulungen&lt;/a&gt;: Weiterbildung zur umweltfreundlichen Nutzung von Reinigungsmitteln.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./services/abwasseranalyse/&#34;&gt;Analyse der Abwasserbelastung&lt;/a&gt;: Wissenschaftliche Messungen und Lösungen zur Reduktion der Abwasserbelastung.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Wir helfen dir, die richtigen Lösungen für deinen Bedarf zu finden – egal ob privat oder geschäftlich.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Themen - Über uns</title>
-      <link>http://localhost:62318/saubereco-website/downloads/</link>
+      <link>http://localhost:1313/saubereco-website/downloads/</link>
       <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62318/saubereco-website/downloads/</guid>
+      <guid>http://localhost:1313/saubereco-website/downloads/</guid>
       <description>&lt;h1 id=&#34;über-uns--alle-themen-im-überblick&#34;&gt;Über uns – Alle Themen im Überblick&lt;/h1&gt;&#xA;&lt;p&gt;In der Rubrik &lt;strong&gt;Über uns&lt;/strong&gt; findest du umfassende Informationen zu SauberEco. Hier die zentralen Themen:&lt;/p&gt;&#xA;&lt;h2 id=&#34;unsere-vision&#34;&gt;Unsere Vision&lt;/h2&gt;&#xA;&lt;p&gt;Erfahre mehr über die Werte und Ziele von SauberEco:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Förderung von &lt;strong&gt;Nachhaltigkeit&lt;/strong&gt; und umweltbewusstem Handeln.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Lokalität&lt;/strong&gt; als Kernprinzip für weniger CO₂-Emissionen.&lt;/li&gt;&#xA;&lt;li&gt;Maximale &lt;strong&gt;Effizienz&lt;/strong&gt; durch innovative Produkte.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;unser-team&#34;&gt;Unser Team&lt;/h2&gt;&#xA;&lt;p&gt;Entdecke die Menschen hinter SauberEco:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Wer wir sind und warum wir uns für Nachhaltigkeit einsetzen.&lt;/li&gt;&#xA;&lt;li&gt;Kompetenzen, die moderne Technologien und Umweltschutz verbinden.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;nachhaltigkeit&#34;&gt;Nachhaltigkeit&lt;/h2&gt;&#xA;&lt;p&gt;Unsere Ansätze für eine umweltfreundliche Zukunft:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Themen - Über uns</title>
-      <link>http://localhost:62318/saubereco-website/impressum/</link>
+      <link>http://localhost:1313/saubereco-website/impressum/</link>
       <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62318/saubereco-website/impressum/</guid>
+      <guid>http://localhost:1313/saubereco-website/impressum/</guid>
       <description>&lt;h1 id=&#34;über-uns--alle-themen-im-überblick&#34;&gt;Über uns – Alle Themen im Überblick&lt;/h1&gt;&#xA;&lt;p&gt;In der Rubrik &lt;strong&gt;Über uns&lt;/strong&gt; findest du umfassende Informationen zu SauberEco. Hier die zentralen Themen:&lt;/p&gt;&#xA;&lt;h2 id=&#34;unsere-vision&#34;&gt;Unsere Vision&lt;/h2&gt;&#xA;&lt;p&gt;Erfahre mehr über die Werte und Ziele von SauberEco:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Förderung von &lt;strong&gt;Nachhaltigkeit&lt;/strong&gt; und umweltbewusstem Handeln.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Lokalität&lt;/strong&gt; als Kernprinzip für weniger CO₂-Emissionen.&lt;/li&gt;&#xA;&lt;li&gt;Maximale &lt;strong&gt;Effizienz&lt;/strong&gt; durch innovative Produkte.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;unser-team&#34;&gt;Unser Team&lt;/h2&gt;&#xA;&lt;p&gt;Entdecke die Menschen hinter SauberEco:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Wer wir sind und warum wir uns für Nachhaltigkeit einsetzen.&lt;/li&gt;&#xA;&lt;li&gt;Kompetenzen, die moderne Technologien und Umweltschutz verbinden.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;nachhaltigkeit&#34;&gt;Nachhaltigkeit&lt;/h2&gt;&#xA;&lt;p&gt;Unsere Ansätze für eine umweltfreundliche Zukunft:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Transparenz</title>
-      <link>http://localhost:62318/saubereco-website/transparenz/</link>
+      <link>http://localhost:1313/saubereco-website/transparenz/</link>
       <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62318/saubereco-website/transparenz/</guid>
+      <guid>http://localhost:1313/saubereco-website/transparenz/</guid>
       <description>&lt;p&gt;Für uns bedeutet Transparenz mehr als nur Offenheit – es ist ein Versprechen an unsere Kund:innen, stets nachvollziehbar zu handeln und Einblick in alle Aspekte unserer Prozesse zu gewähren. Von der Rohstoffbeschaffung über die Produktion bis hin zur Preisgestaltung möchten wir dir zeigen, was hinter unseren Produkten steckt und warum Nachhaltigkeit für uns mehr als ein Anspruch ist.&lt;/p&gt;&#xA;&lt;h2 id=&#34;qualität-und-rückverfolgbarkeit&#34;&gt;Qualität und Rückverfolgbarkeit&lt;/h2&gt;&#xA;&lt;p&gt;Als ökologisch ausgerichtete Genossenschaft beziehen wir unsere Rohstoffe ausschließlich von nachhaltig zertifizierten Lieferanten. Dabei legen wir großen Wert auf Transparenz entlang der gesamten Wertschöpfungskette:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Über uns</title>
-      <link>http://localhost:62318/saubereco-website/ueber-uns/</link>
+      <link>http://localhost:1313/saubereco-website/ueber-uns/</link>
       <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62318/saubereco-website/ueber-uns/</guid>
+      <guid>http://localhost:1313/saubereco-website/ueber-uns/</guid>
       <description>&lt;p&gt;Willkommen bei &lt;strong&gt;SauberEco&lt;/strong&gt;!&lt;/p&gt;&#xA;&lt;p&gt;Hier erfährst du alles über unser Engagement für eine nachhaltige Zukunft und die Menschen, die dahinterstehen. Unsere Werte und Prinzipien bilden die Grundlage für alles, was wir tun.&lt;/p&gt;&#xA;&lt;h2 id=&#34;unsere-vision&#34;&gt;Unsere Vision&lt;/h2&gt;&#xA;&lt;p&gt;Unsere Vision ist es, eine Welt zu schaffen, in der nachhaltige Reinigung der Standard ist. Dafür setzen wir auf:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Förderung von Nachhaltigkeit:&lt;/strong&gt; Wir entwickeln Produkte und Prozesse, die den Umweltschutz aktiv unterstützen.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Lokalität:&lt;/strong&gt; Durch regionale Produktion reduzieren wir CO₂-Emissionen und stärken die lokale Wirtschaft.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Maximale Effizienz:&lt;/strong&gt; Unsere innovativen Lösungen bieten dir die beste Leistung bei minimaler Umweltbelastung.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;unser-team&#34;&gt;Unser Team&lt;/h2&gt;&#xA;&lt;p&gt;Hinter SauberEco steht ein engagiertes Team von Expert:innen, die ihre Leidenschaft für Nachhaltigkeit und moderne Technologien vereinen. Unsere Kompetenzen umfassen:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Unsere Philosophie</title>
-      <link>http://localhost:62318/saubereco-website/philosophie/</link>
+      <link>http://localhost:1313/saubereco-website/philosophie/</link>
       <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62318/saubereco-website/philosophie/</guid>
+      <guid>http://localhost:1313/saubereco-website/philosophie/</guid>
       <description>&lt;p&gt;Weil wir die Umweltbelastung durch konventionelle Reinigungsmittel nicht länger akzeptieren wollten. Weil wir bei der Produktion und Verbreitung von Waschmitteln höchste ökologische Standards durchsetzen. Weil wir uns für faire Arbeitsbedingungen und regionale Wertschöpfung stark machen. &lt;strong&gt;SauberEco&lt;/strong&gt; hat gezeigt, dass lokal produzierte, nachhaltige und umweltfreundliche Waschmittel nicht nur effektiv, sondern auch erschwinglich sein können.&lt;/p&gt;&#xA;&lt;p&gt;Warum ist das wichtig? Weil wir überzeugt sind, dass nachhaltige und faire Alternativen nur dann zum neuen Standard werden, wenn sie für jeden zugänglich sind – ohne hohe Zusatzkosten. Nachhaltigkeit darf kein Luxus sein.&lt;/p&gt;</description>
     </item>
   </channel>
